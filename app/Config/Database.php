@@ -35,7 +35,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'javawebmedia_webci4',
+        'database' => 'db_web_rsud',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
